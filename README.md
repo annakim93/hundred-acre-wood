@@ -24,7 +24,7 @@ The only file you should be editing is `lets-find-eyores-tail.rb`. You are going
 In order to get started, perform the following bash commands:
 
 ```
-  $ git clone <clone URL>
+  $ git clone https://github.com/AdaGold/hundred-acre-wood.git
   $ cd hundred-acre-wood
   $ pwd
   $ ls
