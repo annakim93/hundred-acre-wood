@@ -3,6 +3,7 @@
 ## At a Glance
 - Individual exercise
 - No submission
+- Suggested Timeline: Finish by Monday September 7th
 
 ## Learning Goals
 
