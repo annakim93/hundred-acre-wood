@@ -13,7 +13,7 @@ ask_map = who_was_asked.values.map do |address|
   File.exist?(address)
 end
 
-puts('Oh bother! It seems Eyore has misplaced his tail again.')
+puts('Oh bother! It seems Eeyore has misplaced his tail again.')
 puts('We should ask around and see if anyone has seen it.')
 
 i = 0
@@ -26,7 +26,7 @@ who_was_asked.each do |person, address|
       puts line
     end
 
-    puts('Sorry! I haven\'t seen Eyore\'s tail!')
+    puts('Sorry! I haven\'t seen Eeyore\'s tail!')
   else
     puts("Hmm. Seems that we have the wrong address for #{person}.")
   end
